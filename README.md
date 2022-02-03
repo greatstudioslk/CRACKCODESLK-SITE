@@ -3,7 +3,7 @@
 # <div align="center"><img src="imgss/main/GREATSTUDIOSLK.png" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-2-lawngreen.svg?style=flat-square)](#contributors-)
- 
+
 Available at :  <b><i>https://greatstudioslk.github.io/crackcodeslk/](https://greatstudioslk.github.io/crackcodeslk/)</i></b>
 
 #
@@ -27,7 +27,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><img src="imgss/main/Yoshitha Rathnayake 11.jpg" width="100px;" alt="Yoshitha Rathnayake"/><br/><sub><b>Yoshitha Rathnayake</b></sub></a><br/><a href="https://github.com/greatstudioslk/greatstudios/commits?author=YoshithaRathnayake" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.shamalinduwara.lk"><img src="imgss/main/Shamal Induwara.jpg" width="100px;" alt="Shamal Induwara"/><br/><sub><b>Shamal Induwara</b></sub></a><br/><a href="https://github.com/greatstudioslk/greatstudios/commits?author=shamalthegreat" title="Code">💻</a></td>  
+
+    <td align="center"><a href="https://www.shamalinduwara.lk"><img src="imgss/main/Shamal Induwara.jpeg" width="100px;" alt="Shamal Induwara"/><br/><sub><b>Shamal Induwara</b></sub></a><br/><a href="https://github.com/greatstudioslk/greatstudios/commits?author=shamalthegreat" title="Code">💻</a></td>  
   </tr>
 </table>
 
